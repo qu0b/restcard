@@ -1,5 +1,12 @@
 # RestCard #
 
+# Fuer max
+
+Max: Ich komm dann von der seite
+Ich so:
+![Crap](surrounded.jpg)
+
+
 ## Introduction
 RestCard is a simple and easy to use menu. It hopes to help save paper, and help out waiters who already have so much on their plate (pun intended).
 
@@ -10,6 +17,10 @@ Once the user has found his preferred dish he can see exactly what he is eating 
 ## Wireframes
 
 Using wireframe.cc I created four views. These views show the minimum viable product.
+
+https://wireframe.cc/iuVUIr
+
+https://wireframe.cc/hf8tL7
 
 ### Home screen
 path: `/`
