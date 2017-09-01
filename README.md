@@ -11,12 +11,12 @@ Once the user has found his preferred dish he can see exactly what he is eating 
 
 Using wireframe.cc I created four views. These views show the minimum viable product.
 
-###Home screen
+### Home screen
 path: /
 ![Home screen](home-screen.png)
 
 In this view we can see a title, a search bar and a list of restaurants. By searching the user can open the restaurant view directly of a restaurant that is not close by. He must of course know the name of the restaurant. Suggestions while the user is typing will help him find the right one. The list of restaurants below the search bar is there to give the user easy access to what is around him. For this to be possible we will need access to the users location as well as access to the location of the restaurants.
-###Restaurant
+### Restaurant
 path: /<name of restaurant>/
 ![restaurant](restaurant.png)
 This view is displayed once the user has selected a restaurant in one of the two ways described above. Here we can see the different sections of a restaurant menu. All sections are collapsed apart from the specials. If a section is collapsed only the title of the section will show and the dishes are hidden. The special section is not collapsed and displays different dishes that the restaurant has to offer. The user can click on any one of those dishes.
@@ -25,7 +25,7 @@ path: /<name of restaurant>/<dish>
 ![restaurant](restaurant-dish.png)
 
 This view is displayed once the user clicks on one of the dishes from the Restaurant view. Here the restaurant can advertise a single dish with a nice description. To the left of the description is an image from the dish.
-###Ingredient
+### Ingredient
 path: /<name of restaurant>/<dish>
 ![ingredient](ingredient.png)
 
