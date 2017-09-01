@@ -5,6 +5,7 @@
 Max: Ich komm dann von der seite
 Ich so:
 ![Crap](surrounded.jpg)
+source: https://travisjhanson.deviantart.com/art/surrounded-by-deadly-cuteness-RPG-Comic-662151723
 
 
 ## Introduction
@@ -41,3 +42,25 @@ path: `/<name of restaurant>/<dish>`
 ![ingredient](ingredient.png)
 
 This view is displayed when the user clicks on one of the ingredients in the previous view. Here the user can see, in more detail, what the ingredient is and what nutrition values it entails. This view will be a default view that we provide for an ingredient but it can also be customized by the restaurant. The back button at the top left of the screen will bring the user back to the dish view.
+
+## Step 2, Payment
+
+Muss das ganze Buchhaltungssystem ueber die app laufen? Ja, warscheinlich.
+
+### Conventional
+
+#### Paypal
+
+#### Stripe
+
+#### Visa/Master card
+
+#### Sofort banking
+
+### Crypto
+
+#### Bitcoin - Lighting network
+
+#### Ethereum / OMG
+
+#### Other
