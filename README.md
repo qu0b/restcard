@@ -11,7 +11,7 @@ source: https://travisjhanson.deviantart.com/art/surrounded-by-deadly-cuteness-R
 ## Introduction
 RestCard is a simple and easy to use menu. It hopes to help save paper, and help out waiters who already have so much on their plate (pun intended).
 
-Basically, the goal is to have an app that easily lets the user scroll through the menus of restaurants nearby. The menus will be easily readable and the user should be able to quickly navigate through the sections so he can find the dishes the he is interested in.
+Basically, the goal is to have an app that easily lets the user scroll through the menus of restaurants nearby. The menus will be easily readable and the user should be able to quickly navigate through the sections so he can find the dishes that he is interested in.
 
 Once the user has found his preferred dish he can see exactly what he is eating with an overview of the ingredients. Further, the user can look at each ingredient individually for more detail.
 
